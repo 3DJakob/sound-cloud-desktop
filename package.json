@@ -1,0 +1,25 @@
+{
+  "name": "sound-cloud-desktop",
+  "version": "1.0.0",
+  "description": "A soundcloud desktop app.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3DJakob/sound-cloud-desktop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3DJakob/sound-cloud-desktop/issues"
+  },
+  "homepage": "https://github.com/3DJakob/sound-cloud-desktop#readme",
+  "devDependencies": {
+    "electron": "^6.0.12"
+  },
+  "dependencies": {
+    "puppeteer": "^1.20.0"
+  }
+}
